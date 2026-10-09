@@ -1,0 +1,3 @@
+# The setup key shown in QRCartoon → Settings → Self-hosted redirects.
+# Stored as an encrypted Worker secret.
+SETUP_KEY=

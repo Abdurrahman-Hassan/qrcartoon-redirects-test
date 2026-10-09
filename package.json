@@ -1,0 +1,14 @@
+{
+	"name": "qrcartoon-redirects-test",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+	"description": "Serve your QRCartoon dynamic QR codes from your own Cloudflare account.",
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev"
+	},
+	"devDependencies": {
+		"wrangler": "^4"
+	}
+}
